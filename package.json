@@ -1,0 +1,25 @@
+{
+  "name": "mocha-dotty-reporter",
+  "version": "0.1.0",
+  "description": "A dot-and-summary reporter for Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhritchie/mocha-dotty-reporter.git"
+  },
+  "keywords": [
+    "Mocha",
+    "test",
+    "reporter",
+    "dot"
+  ],
+  "author": "Brendan Ritchie <bhritchie@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhritchie/mocha-dotty-reporter/issues"
+  },
+  "homepage": "https://github.com/bhritchie/mocha-dotty-reporter#readme"
+}
